@@ -1,7 +1,7 @@
 # <h1 align="center"> Chess System</h1>
 <h2>Descrição do projeto:</h2>
 
-Projeto em desenvolvimento para o curso de Java e Orientação a Obejtos do professor Nélio Alves - Udemy
+Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udemy
 
 <h4 align="center">     
     :construction:  Projeto em construção  :construction: 
@@ -12,16 +12,45 @@ Projeto em desenvolvimento para o curso de Java e Orientação a Obejtos do prof
 
   OOP Topics:
   - Encapsulation
+
   - Constructors
+
   - ToString (Object / overriding)
-  
+
+    
 
 * Version 2: Class Piece, Board
 
     OOP Topics:
     - Associations
     - Encapsulation / Access Modifiers
-  
+    
+    
     Data Structures Topics:
     - Matrix
+    
+      
+    
+* Version 3: 
+
+    * Methods: Board.Piece(row, column) and Board.Piece(position) 
+    * Enum Chess.Color 
+    * Class Chess.ChessPiece [public] 
+    *  Class Chess.ChessMatch [public] 
+    * Class ChessConsole.UI
+
+    OOP Topics:
+
+    * Enumerations
+    * Encapsulation / Access Modifiers 
+    * Inheritance 
+    * Downcasting 
+    * Static members 
+    * Layers pattern
+
+    Data Structures Topics:
+
+    * Matrix
+
+    
 

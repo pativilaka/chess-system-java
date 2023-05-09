@@ -10,7 +10,7 @@ public class Piece {
         //position = null;
     }
 
-    //Não posso permitir que o meu tabuleiro seja alterado, por isso não método set
+    //Não posso permitir que o meu tabuleiro seja alterado, por isso não há método set
 
     //Apenas a camada interna poderá acessar o tabuleiro
     protected Board getBoard() {
