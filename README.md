@@ -54,3 +54,17 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
 
     
 
+* Version 4:
+
+  * Method: Board.PlacePiece(piece, position) 
+  * Classes: Rook, King [public] 
+  * Method: ChessMatch.InitialSetup 
+
+  OOP Topics:
+
+  * Inheritance
+  * Overriding
+  * Polymorphism (ToString)
+
+
+
