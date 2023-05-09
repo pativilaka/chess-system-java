@@ -14,13 +14,14 @@ Projeto em desenvolvimento para o curso de Java e Orientação a Obejtos do prof
   - Encapsulation
   - Constructors
   - ToString (Object / overriding)
+  
 
 * Version 2: Class Piece, Board
 
-OOP Topics:
-- Associations
-- Encapsulation / Access Modifiers
-
-Data Structures Topics:
-- Matrix
+    OOP Topics:
+    - Associations
+    - Encapsulation / Access Modifiers
+  
+    Data Structures Topics:
+    - Matrix
 
