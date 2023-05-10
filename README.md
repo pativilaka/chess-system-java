@@ -96,3 +96,8 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   * Static members
   * Layers pattern
 
+
+
+* Version 7:
+  * Place more pieces on the board
+  * Distinguish piece colors in UI.PrintPiece method
