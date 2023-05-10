@@ -101,3 +101,19 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
 * Version 7:
   * Place more pieces on the board
   * Distinguish piece colors in UI.PrintPiece method
+
+
+
+* Version 8:
+
+  * Method Board.RemovePiece
+  * Method UI.ReadChessPosition
+  * Method ChessMatch.PerformChessMove
+    * Method ChessMatch.MakeMove
+    * Method ChessMatch.ValidadeSourcePosition
+  * Write basic logic on Program.cs
+
+  OOP Topics:
+
+  * Exceptions
+  * Encapsulation
