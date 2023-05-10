@@ -81,5 +81,18 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   	* Exceptions
   	* Constructors (a string must be informed to the exception)
 
+* Version 6:
 
+  * Class ChessException [public]
+  * Class ChessPosition [public]
+  * Refactor ChessMatch.InitialSetup
+
+  OOP Topics:
+
+  * Exceptions
+  * Encapsulation
+  * Constructors (a string must be informed to the exception)
+  * Overriding
+  * Static members
+  * Layers pattern
 
