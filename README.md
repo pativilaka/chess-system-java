@@ -63,8 +63,23 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Inheritance
+  
   * Overriding
+  
   * Polymorphism (ToString)
+  
+    
+  
+* Version 5:
+
+  * Class BoardException [public]
+  * Methods: Board.PositionExists, Board.ThereIsAPiece
+  * Implement defensive programming in Board methods
+
+  OOP Topics:
+
+  	* Exceptions
+  	* Constructors (a string must be informed to the exception)
 
 
 
