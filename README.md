@@ -78,8 +78,10 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
 
   OOP Topics:
 
-  	* Exceptions
-  	* Constructors (a string must be informed to the exception)
+  * Exceptions
+  * Constructors (a string must be informed to the exception)
+
+  
 
 * Version 6:
 
@@ -116,4 +118,12 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Exceptions
+  
   * Encapsulation
+  
+    
+  
+* Version 9:
+
+  * ChessException
+  * InputMismatchException
