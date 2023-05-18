@@ -126,4 +126,21 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
 * Version 9:
 
   * ChessException
+  
   * InputMismatchException
+  
+    
+  
+* Version 10:
+
+  * Methods in Piece:
+    * PossibleMoves [abstract]
+    * PossibleMove // hook method 
+    * IsThereAnyPossibleMove // hook method
+  * Basic PossibleMove implementation for Rook and King
+  * Update ChessMatch.ValidadeSourcePosition
+
+  OOP Topics:
+
+  * Abstract method / class
+  * Exceptions
