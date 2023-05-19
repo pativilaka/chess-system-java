@@ -173,3 +173,15 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Overloading
+  
+    
+  
+* Version 13:
+
+  * Method King.CanMove(position) [private]
+  * Implement King.PossibleMoves
+
+  OOP Topics:
+
+  * Encapsulation
+  * Polymorphism
