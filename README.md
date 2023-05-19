@@ -157,5 +157,19 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Polymorphism
+  
   * Encapsulation / access modifiers [protected]
+  
   * Exceptions
+  
+    
+  
+* Version 12:
+
+  * Method ChessMatch.PossibleMoves
+  * Method UI.PrintBoard [overload]
+  * Refactor main program logic
+
+  OOP Topics:
+
+  * Overloading
