@@ -1,7 +1,9 @@
 # <h1 align="center"> Chess System</h1>
 <h2>Descrição do projeto:</h2>
 
-Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udemy
+Projeto guiado para consolidar conhecimento da linguagem Java e paradigma de Orientação a Objetos.
+
+Professor Dr. Nélio Alves - Udemy
 
 <h4 align="center">     
     :construction:  Projeto em construção  :construction: 
@@ -201,4 +203,26 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Encapsulation
+  
   * Exceptions
+  
+    
+  
+* Version 15:
+
+  * Method UI.PrintCapturedPieces
+  * Update UI.PrintMatch
+  * Update Program logic
+  * Lists in ChessMatch: _piecesOnTheBoard, _capturedPieces
+    * Update constructor
+    * Update PlaceNewPiece
+    * Update MakeMove
+
+  OOP Topics:
+
+  * Encapsulation
+  * Constructors
+
+  Data Structures Topics:
+
+  * List
