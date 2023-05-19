@@ -143,4 +143,19 @@ Projeto guiado de Java e Orientação a Objetos do professor Nélio Alves - Udem
   OOP Topics:
 
   * Abstract method / class
+  
+  * Exceptions
+  
+    
+  
+* Verson 11:
+
+  * Method ChessPiece.IsThereOpponentPiece(position) [protected]
+  * Implement Rook.PossibleMoves
+  * Method ChessMatch.ValidateTargetPosition
+
+  OOP Topics:
+
+  * Polymorphism
+  * Encapsulation / access modifiers [protected]
   * Exceptions
