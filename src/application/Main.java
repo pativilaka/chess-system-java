@@ -18,7 +18,8 @@ public class Main {
 
         while (true) {
 
-            try{
+
+        try{
                 UI.clearScreen();
                 UI.printMatch(chessMatch, captured);
                 System.out.println();

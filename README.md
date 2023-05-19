@@ -226,3 +226,22 @@ Professor Dr. Nélio Alves - Udemy
   Data Structures Topics:
 
   * List
+
+    
+
+* Version 16:
+
+  * Rules:
+    * Check means your king is under threat by at least one opponent piece 
+    *  You can't put yourself in check 
+  * Property ChessPiece.ChessPosition [get] 
+  * Class ChessMatch:
+    * Method UndoMove 
+    * Property Check [private set] 
+    * Method Opponent [private] 
+    * Method King(color) [private] 
+    * Method TestCheck 
+    * Update PerformChessMove
+  * Update UI.PrintMatch
+
+​	
